@@ -1,2 +1,2 @@
-# Predicting Song Growth Rates using Spotify streaming data
+## Predicting Streaming Growth Rates 
 Predicting song streams growth rate using audio features
